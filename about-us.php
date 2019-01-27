@@ -1,0 +1,15 @@
+<?php 
+	print '
+	<h1>About</h1>
+	<h2>Latest news</h2>
+	<video width="50%" controls poster="img/s10video.jpg" >
+	  <source src="img/s10video.mp4" type="video/mp4">
+	  Your browser does not support HTML5 video.
+	</video>
+	<p>17/1/19: We\'re still more than a month away from Samsung\'s Unpacked event, but the leaky Galaxy S10+ has already been pictured in the wild. The image (below), shared on Reddit, confirms that this S10 model will feature a dual selfie camera, which will be tucked into an elongated punch-hole on the upper right corner of the display. </p>
+	<p>6/1/19: The Galaxy S10+ has made a premature appearance on Geekbench ahead of its unveiling on 20 February. The handset, which features the model number SM-G975U, will pair a Snapdragon 855 SoC with 6GB RAM, according to the listing, contradicting earlier rumours that the smartphone could ship with as much as 10GB or 12GB RAM. Or, it could be that only the lowest-spec, base model was given an early testing. The alleged Galaxy S10 Plus earned itself a single-core score of 3,413 - falling slightly short of Samsung\'s own Samsung\'s Exynos 9810, and a multi-core score of 10,256 which trumps Huawei\'s  Kirin 980 CPU. However, the handset tested was likely a unit with non-final testing, so we wouldn\'t read too much into these numbers just yet. </p>
+	<p>15/1/19: The Galaxy S10 X will be Samsung\'s first 5G smartphone, according to ET News.  As well as support for 5G connectivity, the report claims the 10th-anniversary handset will pack a 6.7in Super AMOLED screen, six cameras, 1TB of internal storage and a mammoth 5,000mAh battery. The Samsung Galaxy S10 X\'s "secret weapon" will be its a "life pattern" mode, according to ET News, an AI management system to automate various functions. The Galaxy S10 X will reportedly make its debut in Korea on 29 March and could fetch as much as £1,299. It\'s unclear whether this model will be released in the UK. </p>
+	<p>14/1/19: The latest Galaxy S10 leak comes courtesy of, er, Samsung, who accidentally shared images (below) of the Galaxy S10 in an article about its new One UI. Spotted by Reddit user qgtx, the article - which has since been updated - originally showed a phone with a punch-hole camera in the top right corner, a feature set to debut on the incoming Galaxy S10 and S10 Plus.</p>
+	<p>10/1/19: Samsung has disrupted CES to announce an Unpacked launch event for 20 February, where it\'s widely expected to unveil the Galaxy S10. The firm will skip MWC and instead be holding events in both London and San Francisco, and while it\'s keeping tight-lipped on what we can expect, but promises to show off "devices that will "usher in new Galaxy experiences based on 10 years of innovations."</p>
+	<p>powered by <a href="https://www.samsung.com/us/" target="_blank">samsung</a></p>';
+?>
